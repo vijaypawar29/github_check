@@ -23,9 +23,6 @@ for (let i = 0; i < 5; i++) {
     console.log("Iteration:", i);
 }
 
-// Arrays
-let fruits = ["Apple", "Banana", "Cherry"];
-fruits.forEach(fruit => console.log(fruit));
 
 
 
